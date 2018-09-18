@@ -1,0 +1,188 @@
+{
+  "created_at": "Fri Nov 10 17:01:35 +0000 2017",
+  "id": 929031291697233920,
+  "id_str": "929031291697233920",
+  "text": "U-M's oldest student group, @UMMGC organized in 1859 and launched a treasured campus tradition. #UMich200 https://t.co/q0koMuRwNo",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UMich200",
+        "indices": [
+          96,
+          105
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "UMMGC",
+        "name": "U-M Men's Glee Club",
+        "id": 89621408,
+        "id_str": "89621408",
+        "indices": [
+          28,
+          34
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 929031289226833922,
+        "id_str": "929031289226833922",
+        "indices": [
+          106,
+          129
+        ],
+        "media_url": "http://pbs.twimg.com/media/DOSVCQuWsAICAf9.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DOSVCQuWsAICAf9.jpg",
+        "url": "https://t.co/q0koMuRwNo",
+        "display_url": "pic.twitter.com/q0koMuRwNo",
+        "expanded_url": "https://twitter.com/UMich/status/929031291697233920/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1284,
+            "h": 1967,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 783,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 444,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 929031289226833922,
+        "id_str": "929031289226833922",
+        "indices": [
+          106,
+          129
+        ],
+        "media_url": "http://pbs.twimg.com/media/DOSVCQuWsAICAf9.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DOSVCQuWsAICAf9.jpg",
+        "url": "https://t.co/q0koMuRwNo",
+        "display_url": "pic.twitter.com/q0koMuRwNo",
+        "expanded_url": "https://twitter.com/UMich/status/929031291697233920/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1284,
+            "h": 1967,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 783,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 444,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 88836132,
+    "id_str": "88836132",
+    "name": "Univ. of Michigan",
+    "screen_name": "UMich",
+    "location": "Ann Arbor, MI",
+    "description": "The world needs Victors. This is where they are made. Co\u303d\ufe0fe to #Michigan. A world-renowned public institution, fostering excellence for all. #LeadersAndBest",
+    "url": "https://t.co/1E6wZT0bSU",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/1E6wZT0bSU",
+            "expanded_url": "http://socialmedia.umich.edu",
+            "display_url": "socialmedia.umich.edu",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 189884,
+    "friends_count": 897,
+    "listed_count": 1541,
+    "created_at": "Tue Nov 10 03:02:02 +0000 2009",
+    "favourites_count": 8651,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 19578,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "84AFE1",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/585445466034216960/ju_91JDS.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/585445466034216960/ju_91JDS.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/815660088937459712/VWcMswj7_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/815660088937459712/VWcMswj7_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/88836132/1495030103",
+    "profile_link_color": "00274C",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FEF3D3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 4,
+  "favorite_count": 12,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}
